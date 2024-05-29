@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+
+.nav1{
+
+   background-color: rgb(222, 22, 32);
+   }
+
+.nav2{
+    background-color: #ffffff;
+}
+
+.nav1 ul li{
+        color: white;
+         display: inline-block;
+        text-decoration: none;
+        padding: 10px;
+    }
+.nav2 ul li{
+        color: #000000;
+         display: inline-block;
+        text-decoration: none;
+        padding: 20px;
+    }
+.bg{
+    background-image: url(images/portrait-young-student-studying-university-library-education-lifestyle-concept\ \(1\).jpg);
+    min-height: 590px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.box1{
+    width: 450px;
+    height: 350px;
+    background-color: rgba(255, 255, 255, 0.6);
+    position: absolute;
+    left: 15rem;
+    top: 12rem;
+    border: 5px left pink;
+    border-radius: 5px;
+    
+}
+.box2{
+    width: 1034px;
+    height: 100px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 40rem;
+    left: 15rem;
+}
+.button2{
+    background-color: red;
+    width: 200px;
+    padding: 10px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    color: #ffffff;
+    position: absolute;
+    left: 47rem;
+    top: 28px;
+}
+
+h2{
+    font-size: 23px;
+    position: absolute;
+    left: 20px;
+    top: 34px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text1{
+    position: absolute;
+    left: 15rem;
+}
+.text2{
+    position: relative;
+    left: 50rem;
+}
+.text3{
+    position: relative;
+    left: 43rem;
+}
+h1{
+    font-size: 60px;
+    font-weight: bold;
+    position: absolute;
+    top: 40px;
+    left: 30px;
+
+}
+
+p{
+
+    position: absolute;
+    top: 15px;
+    left: 35px;
+    color: grey;
+    
+}
+.button3{
+
+    background-color:red;
+    width: 160px;
+    padding: 10px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    color: #ffffff;
+    position: absolute;
+    left: 2.5rem;
+    top: 260px;
+
+}
+
+.play{
+    position: absolute;
+    left: 14rem;
+    top: 260px;
+
+}
+
+.img1{
+        position: absolute;
+        left: 20rem;
+        top: 260px;
+}
+
+.img2{
+        position: absolute;
+        left: 19rem;
+        top: 270px;
+}
+
+.text5{
+    position: absolute;
+    top: 190px;
+    color: grey;
+}
+
+h3{
+    font-size: 32px;
+    position: absolute;
+    top: 50px;
+    left: 19rem;
+}
+.img3{
+    position: absolute;
+    left: 12rem;
+    top:-1px;
+}
